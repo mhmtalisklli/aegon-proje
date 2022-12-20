@@ -31,8 +31,6 @@ import net.javaguides.springboot.service.SurveyAnswersService;
 
 @RestController
 @RequestMapping("/api/v1/")
-@CrossOrigin(origins = "http://localhost:4200")
-
 public class SurveyAnswersController {
 	 
 	 
